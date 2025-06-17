@@ -1,6 +1,6 @@
 # Flashcard-Generator-LLM-
 
-# LLM-Powered Flashcard Generator (Offline - Hugging Face)
+# LLM-Powered Flashcard Generator (Hugging Face)
 
 This project is a lightweight AI tool that converts educational content into high-quality flashcards using a transformer-based language model (`flan-t5-base`) from Hugging Face. It's designed for offline or low-cost usage — no OpenAI key required!
 
